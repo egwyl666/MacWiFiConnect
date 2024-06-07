@@ -40,4 +40,4 @@ MacWiFiConnect is intended for legal and authorized use only.
 The author of this script are not responsible for any misuse of this script. This script should not be used to gain unauthorized access to any Wi-Fi network. Unauthorized access to computer networks is illegal and punishable by law. Use this script responsibly and only on networks you have permission to access.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/egwyl666/MacWiFiConnect?tab=MIT-1-ov-file) file for details.
